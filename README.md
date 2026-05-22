@@ -15,8 +15,8 @@
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=ARPANAPRIYA23&theme=radical&hide_border=false" />
-
+[<img src="https://streak-stats.demolab.com/?user=ARPANAPRIYA23&theme=radical&hide_border=false" />
+](https://github-readme-streak-stats.herokuapp.com/?user=ARPANAPRIYA23&theme=radical&hide_border=false)
 <br><br>
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ARPANAPRIYA23&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
