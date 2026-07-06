@@ -36,43 +36,17 @@
 
 # 💫 About Me
 
-```java
-public class ArpanaPriya {
+Hi! I'm **Arpana Priya**, a **Java Backend Developer** passionate about building scalable and efficient backend applications.
 
-    private final String role =
-            "Java Backend Developer";
+🎓 B.Tech Graduate in Computer Science & Engineering (CGPA: **8.35**)
 
-    private final String education =
-            "B.Tech Computer Science Graduate";
+💻 I enjoy developing backend applications using **Java**, **Spring Boot**, **REST APIs**, **JPA/Hibernate**, and **MySQL**.
 
-    private final double cgpa = 8.35;
+🚀 I love solving real-world problems through clean architecture, efficient APIs, and well-structured code.
 
-    private final String location =
-            "India";
+🌱 Currently expanding my knowledge in **Microservices**, **Docker**, and **System Design**.
 
-    private final String[] backend = {
-            "Java",
-            "Spring Boot",
-            "Spring Batch",
-            "REST APIs",
-            "JPA/Hibernate",
-            "MySQL",
-            "MongoDB"
-    };
-
-    private final String[] coreSubjects = {
-            "Data Structures",
-            "Algorithms",
-            "OOP",
-            "MVC Architecture",
-            "Multithreading"
-    };
-
-    public String currentGoal() {
-        return "Build scalable backend applications.";
-    }
-}
-```
+🎯 I'm actively seeking **Software Engineer** and **Backend Developer** opportunities where I can learn, contribute, and grow.
 
 ---
 
