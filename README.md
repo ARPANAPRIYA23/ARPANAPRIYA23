@@ -1,271 +1,190 @@
-<div align="center">
-
 # 👋 Hi, I'm Arpana Priya
 
-### 💻 Java Backend Developer | Spring Boot | Machine Learning Enthusiast | Open to Software Engineering Roles
+::: {align="center"}
+### ☕ Java Backend Developer \| Spring Boot \| REST APIs \| Open to Software Engineering Roles
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Machine+Learning+Enthusiast;Problem+Solver;Open+to+Software+Engineering+Opportunities" alt="Typing SVG" />
+`<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Graduate;Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;Always+Learning+New+Things" />`{=html}
 
-<br>
+![](https://komarev.com/ghpvc/?username=ARPANAPRIYA23&style=for-the-badge&color=blue)
+:::
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue)
+------------------------------------------------------------------------
 
-</div>
+# 💫 About Me
 
----
+``` java
+public class ArpanaPriya {
 
-# 👩‍💻 About Me
+    String role = "Java Backend Developer";
+    String education = "B.Tech in Computer Science & Engineering";
+    double cgpa = 8.35;
 
-🎓 B.Tech Graduate in Computer Science & Engineering
+    String[] backend = {
+        "Java",
+        "Spring Boot",
+        "Spring Batch",
+        "REST APIs",
+        "JPA/Hibernate",
+        "MySQL",
+        "MongoDB"
+    };
 
-💻 Passionate Java Backend Developer
+    String[] concepts = {
+        "Data Structures & Algorithms",
+        "OOP",
+        "MVC Architecture",
+        "Multithreading"
+    };
 
-🌱 Currently learning Spring Boot, Microservices & System Design
+    String goal = "Build scalable backend applications and grow as a Software Engineer.";
+}
+```
 
-🤖 Interested in Machine Learning and Artificial Intelligence
+-   🎓 B.Tech Graduate (CSE)
+-   💻 Passionate about Java Backend Development
+-   🌱 Learning Microservices, Docker & System Design
+-   🚀 Open to Full-Time Software Engineer roles
 
-📚 Strong knowledge of Java, DSA, OOP, DBMS and SQL
-
-🚀 Actively looking for Full-Time Software Engineer / Backend Developer opportunities
-
-⚡ I love building real-world applications that solve practical problems.
-
----
+------------------------------------------------------------------------
 
 # 🌐 Connect With Me
 
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-<img src="https://cdn.simpleicons.org/leetcode" height="45"/>
-</a>
-
+```{=html}
+<p align="left">
+```
+`<a href="https://github.com/ARPANAPRIYA23">`{=html}`<img src="https://skillicons.dev/icons?i=github" height="45"/>`{=html}`</a>`{=html}
+`<a href="https://linkedin.com/in/arpana-priya-aa8272257">`{=html}`<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>`{=html}`</a>`{=html}
+`<a href="mailto:arpanapriya2606@gmail.com">`{=html}`<img src="https://skillicons.dev/icons?i=gmail" height="45"/>`{=html}`</a>`{=html}
+`<a href="https://leetcode.com/u/Arp_000">`{=html}`<img src="https://cdn.simpleicons.org/leetcode" height="45"/>`{=html}`</a>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
-### Programming Languages
+### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js"/>
-</p>
+`<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css"/>`{=html}
 
-### Backend Development
+### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,maven,flask"/>
-</p>
+`<img src="https://skillicons.dev/icons?i=spring,maven"/>`{=html}
 
 ### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
+`<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>`{=html}
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman"/>
-</p>
+`<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman"/>`{=html}
 
----
+------------------------------------------------------------------------
 
 # 🚀 Featured Projects
 
-## 📈 Production Demand Prediction
-
-Machine Learning based demand forecasting system built using:
-
-- Java Spring Boot
-- Python Flask
-- Random Forest Regressor
-- MySQL
-- HTML
-- CSS
-- JavaScript
-
-🔗 Repository
-
-https://github.com/YOUR_GITHUB_USERNAME/Production-Demand-Prediction
-
----
-
 ## 💼 Payroll Management System
 
-Backend Employee Payroll System developed using
+**Java • Spring Boot • Spring Batch • REST APIs • JPA/Hibernate • MySQL
+• Maven**
 
-- Spring Boot
-- Maven
-- REST APIs
-- MySQL
+Repository: - https://github.com/ARPANAPRIYA23/Payroll-Management-System
 
-🔗 Repository
+## 📈 Production Demand Prediction
 
-https://github.com/YOUR_GITHUB_USERNAME/Payroll-Management-System
+**Java • Spring Boot • Flask • Machine Learning • MySQL**
 
----
+Repository: -
+https://github.com/ARPANAPRIYA23/production-demand-prediction
 
 ## ⌨️ Typing Speed Test
 
-Desktop Java Application
+**Java • Swing • GUI**
 
-Features
+Repository: - https://github.com/ARPANAPRIYA23/TypingSpeedTest
 
-- WPM Calculation
-- Accuracy Calculation
-- Timer
-- User Friendly Interface
+------------------------------------------------------------------------
 
-🔗 Repository
+# 📜 Certifications
 
-https://github.com/YOUR_GITHUB_USERNAME/Typing-Speed-Test
+-   Programming Using Java
+-   Data Structures & Algorithms with Java
+-   ServiceNow Certified System Administrator
+-   AWS Cloud Fundamentals
 
----
+------------------------------------------------------------------------
 
-## 🌍 Travel Planner
+# 📊 GitHub Stats
 
-Travel Planning Application
-
-Features
-
-- Weather API
-- Maps Integration
-- Interactive Dashboard
-- Location Search
-
-🔗 Repository
-
-https://github.com/YOUR_GITHUB_USERNAME/Travel-Planner
-
----
-
-# 📊 GitHub Statistics
-
+```{=html}
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
+```
+`<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ARPANAPRIYA23&show_icons=true&theme=tokyonight"/>`{=html}
+`<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARPANAPRIYA23&layout=compact&theme=tokyonight"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
 # 🔥 GitHub Streak
 
+```{=html}
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
+```
+`<img src="https://streak-stats.demolab.com?user=ARPANAPRIYA23&theme=tokyonight"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-# 📈 Contribution Graph
+# 📈 Activity Graph
 
+```{=html}
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=ARPANAPRIYA23&theme=tokyo-night"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
 # 🏆 GitHub Trophies
 
+```{=html}
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-
+```
+`<img src="https://github-profile-trophy.vercel.app/?username=ARPANAPRIYA23&theme=algolia&column=4"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
 # 🌱 Currently Learning
 
-- Spring Boot
-- Hibernate & JPA
-- Microservices
-- System Design
-- Docker
-- Machine Learning
+-   Spring Boot Advanced
+-   Microservices
+-   Docker
+-   System Design
 
----
+------------------------------------------------------------------------
 
-# 💼 Technical Skills
+# 📫 Contact
 
-✔ Java
+-   📧 arpanapriya2606@gmail.com
+-   💼 Open to Software Engineering Opportunities
+-   🌍 India
 
-✔ Spring Boot
+------------------------------------------------------------------------
 
-✔ REST APIs
+::: {align="center"}
+### ⭐ Thanks for visiting my profile!
 
-✔ MySQL
+If you like my work, consider starring my repositories.
 
-✔ Data Structures & Algorithms
-
-✔ Object-Oriented Programming
-
-✔ HTML
-
-✔ CSS
-
-✔ JavaScript
-
-✔ Git & GitHub
-
-✔ Machine Learning
-
-✔ Python
-
----
-
-# 📚 Coding Profiles
-
-| Platform | Link |
-|----------|------|
-| GitHub | https://github.com/YOUR_GITHUB_USERNAME |
-| LinkedIn | https://linkedin.com/in/YOUR_LINKEDIN_USERNAME |
-| LeetCode | https://leetcode.com/YOUR_LEETCODE_USERNAME |
-
----
-
-# 📫 Reach Me
-
-📧 YOUR_EMAIL@gmail.com
-
-💼 Open to Full-Time Software Engineering Opportunities
-
-🌍 India
-
----
-
-<div align="center">
-
-## 💙 Thank You For Visiting My Profile!
-
-⭐ If you like my work, don't forget to Star my repositories.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=120&section=footer"/>
-
-</div>
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>`{=html}
+:::
